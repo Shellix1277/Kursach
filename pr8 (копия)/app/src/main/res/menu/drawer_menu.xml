@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_international"
+            android:icon="@drawable/ic_international"
+            android:title="International Flights" />
+        <item
+            android:id="@+id/menu_domestiс"
+            android:icon="@drawable/ic_domestic"
+            android:title="Domestic Flights" />
+        <item
+            android:id="@+id/menu_back"
+            android:title="Back"/>
+    </group>
+</menu>
